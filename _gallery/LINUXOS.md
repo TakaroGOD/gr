@@ -11,4 +11,5 @@ categories:
   - Desktop
 tags:
   - GNU
+  - Linux
 ---
